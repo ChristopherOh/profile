@@ -1,0 +1,31 @@
+p{
+font-family: PT Sans;
+font-size: 12px;
+}
+
+a {
+font-family: PT Sans;
+font-size: 11px;
+}
+
+div {
+    height: 50px;
+    width: 120px;
+font-family: PT Sans;
+font-size: 12px;
+}
+
+
+#align {
+width:100%;
+text-align:center;
+}
+
+#content{
+margin:0 auto;
+width:750px;
+text-align:left;
+}
+
+}
+
